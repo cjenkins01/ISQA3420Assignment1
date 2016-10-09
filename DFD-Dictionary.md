@@ -1,14 +1,20 @@
 #Data Flow Diagram Dictionary
 
-Developer: User responsible for submitting the software packages to be searched for OSS components that are updated to the database.
+Developer - User responsible for submitting the software packages to be searched for OSS components that are updated to the database.
 
-Manager: External user that will query the database to request OSS information.
+Software Package - Software submitted by the Developer to be scanned for OSS licenses and vulnerabilities.
 
-Manage Software Package for License and Vulnerability Scanning: Process that handles the software package sending it to the Scan License process and sends the package's license results to the database and the developer.
+Sofware Package License and Vulnerability Results - The results returned from the Manage Software Package for License and Vulnerability Scanning process.
 
-Scan for Licenses: Process that actually scans the software for Open Source Software (OSS) licenses and returns any results to the Manage Software Package for License Scanning.
+Software Package License Results.
 
-Search Datastore for OSS Packages, Licenses, and Vulnerabilities - Processes that allow the Manager or Developer to search the Datastore for OSS packages, licenses, or vulnerabilities.
+Manager - External user that will query the database to request OSS information.
+
+Manage Software Package for License and Vulnerability Scanning - Process that handles the software package sending it to the Scan License process and sends the package's license results to the database and the developer.
+
+Scan for Licenses - Process that actually scans the software for Open Source Software (OSS) licenses and returns any results to the Manage Software Package for License Scanning.
+
+Search Datastore for OSS Package Licenses and Vulnerabilities - Processes that allow the Manager or Developer to search the Datastore for OSS packages' licenses and vulnerabilities.
 
 OSS Component Datastore - Database that stores the software package license information.
 
