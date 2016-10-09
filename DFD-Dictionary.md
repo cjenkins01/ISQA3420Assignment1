@@ -27,3 +27,11 @@ Search Datastore for Policy Documents - Processes that allow the Manager or Deve
 OSS Policy Datastore - Database that stores the company's OSS policy documents.
 
 Create or Edit OSS Policy Documents - Process by which the Manager can create a policy document from scratch or edit existing policy documents.
+
+Policy Request - 
+
+Policy Document Request Results - 
+
+Policy Document - 
+
+Created or Edited OSS Policy Document Information - 
