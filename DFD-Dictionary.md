@@ -24,14 +24,12 @@ NIST Vulnerability Datastore - Database to be searched that contains the known v
 
 Search Datastore for Policy Documents - Processes that allow the Manager or Developer to search the OSS Policy Datastore for the company policies pertaining to OSS package licenses and vulnerabilies.
 
-OSS Policy Datastore - Database that stores the company's OSS policy documents.
+OSS Policy Document Datastore - Database that stores the company's OSS policy documents.
 
 Create or Edit OSS Policy Documents - Process by which the Manager can create a policy document from scratch or edit existing policy documents.
 
-Policy Request - 
+Policy Document Request - Data that developers and managers request from the OSS Policy Document Datastore.
 
-Policy Document Request Results - 
+Policy Document Request Results - The data returned from the OSS Policy Document Datastore.
 
-Policy Document - 
-
-Created or Edited OSS Policy Document Information - 
+Created or Edited OSS Policy Document Information - Information that the Manager creates or edits to store in the OSS Policy Document Datastore.
