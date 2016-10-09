@@ -4,11 +4,13 @@ Developer - User responsible for submitting the software packages to be searched
 
 Software Package - Software submitted by the Developer to be scanned for OSS licenses and vulnerabilities.
 
-Sofware Package License and Vulnerability Results - The results returned from the Manage Software Package for License and Vulnerability Scanning process.
+Sofware Package License and Vulnerability Results - The results returned with License and Vulnerability information to the Developer and Manager.
 
-Software Package License Results.
+Software Package License Results - The scanned licenses returned from the Scan for Licenses process.
 
 Manager - External user that will query the database to request OSS information.
+
+Package License and Vulnerability Request - Query submitted for information on an OSS packages License and Vulnerability information.
 
 Manage Software Package for License and Vulnerability Scanning - Process that handles the software package sending it to the Scan License process and sends the package's license results to the database and the developer.
 
