@@ -2,6 +2,6 @@
 
 
 
-![alt text] (https://cloud.githubusercontent.com/assets/21373560/19223489/c05183ae-8e36-11e6-8e16-39d8d66c6c2e.jpg)
+![alt text] (https://cloud.githubusercontent.com/assets/21373560/19224258/df1e3d5c-8e47-11e6-94e5-6c22c843a025.jpg)
 
 *DFD Dictionary contains information on terms in the DFD.
