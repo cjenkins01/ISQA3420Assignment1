@@ -1,1 +1,5 @@
 #Executive Summary
+
+The purpose of this repository is to aid a development team and their manager(s) by creating a system in which they can scan, store, and request Open Source Software (OSS) package licenses and vulnerabilities.  The Dataflow Diagram illustrates how a Developer can submit a software package to scan for OSS licenses and search the vulnerability datastore.  They can additionally update the OSS Component Datastore with the information found from the scanning process.  This will allow both the Developers and their Managers to query this datastore in order to gain access to the information found.
+
+Furthermore, a system is created by which identified OSS software project license and vulnerability information can be compared to existing policy documents.  The Manager can create or ammend these documents and add them to the OSS Policy Document Datastore.  This datastore can be queried by both the Developers and the Managers to find existing policy documents that pertain to the OSS software in question.
