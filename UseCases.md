@@ -20,3 +20,9 @@ The software package already exists in the datastore. The software does not have
 
 Trigger:
 The software package is submitted by the Developer to be scanned for vulnerabilities and licenses.
+
+#Use Case 2
+
+
+
+#Use Case 3
